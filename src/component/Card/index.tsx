@@ -1,6 +1,4 @@
 import styled from 'styled-components';
-import favorite from '../../assets/favorite.png';
-import redFavorite from '../../assets/redFavorite.png';
 
 const Chip = styled.div`
   display: flex;
